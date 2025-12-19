@@ -6,5 +6,6 @@ Includes:
 - Poisson baseline
 - Random Forest & Gradient Boosting models
 - Peak-hour and all-pickups hotspot clustering
+- Dashboard
 
 See scripts in the repository for details.
